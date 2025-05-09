@@ -1,7 +1,7 @@
 {
   "name": "neo4j-graphql-js",
   "version": "2.19.3",
-  "description": "A GraphQL to Cypher query execution layer for Neo4j. ",
+  "description": "A GraphQL to Cypher query execution layer for Neo4j with neo4j-fix ",
   "main": "./dist/index.js",
   "scripts": {
     "start": "nodemon ./example/apollo-server/movies.js --exec babel-node -e js",
